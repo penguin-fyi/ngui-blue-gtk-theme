@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=nGUI-Blue-Dark
+Comment=A nGUI Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=nGUI-Blue-Dark
+GtkTheme=nGUI-Blue-Dark
+IconTheme=nGUI-Blue
+MetacityTheme=nGUI-Blue-Dark
